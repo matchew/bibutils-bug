@@ -1,6 +1,6 @@
 #bibutils-bug
 
-bibutils appears to have some trouble discerning the correct document types of MOD files in conversion to .ris and some other formats
+[bibutils 5.4](http://sourceforge.net/projects/bibutils/) appears to have some trouble discerning the correct document types of MOD files in conversion to .ris and some other formats
 
 using source MOD files from the LOC MODs page I will demonstrate the failings
 
